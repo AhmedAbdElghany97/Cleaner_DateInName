@@ -18,12 +18,12 @@ Give it a path that you want to clean and days that you want to keep. It will lo
 * Install [Python 3](https://www.python.org/downloads) in your OS (Windows, Linux, etc.)
 * Download Cleaner_DateInName Script:
   From here: https://github.com/AhmedAbdElghany97/Cleaner_DateInName.git
-  Or you can use this command:
+Or you can use this command:
   ```
   git clone https://github.com/AhmedAbdElghany97/Cleaner_DateInName.git
   ```
 * Set variables with specific values:
-  Replace following variable with a path you need to clean.
+Replace following variable with a path you need to clean.
   ```python
   pathToClean = "PATH_THAT_WANT_TO_CLEAN"
   ```
